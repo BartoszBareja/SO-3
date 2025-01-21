@@ -3,17 +3,17 @@
 ## Zadania dodatkowe do: ##
 
 ### Laboratorium 4 ###
-[a link](port_monitor.sh)
+[port_monitor.sh](port_monitor.sh)
 
 ### Laboratorium 5 ###
-[a link](backup_cron_script.sh)
+[backup_cron_script.sh](backup_cron_script.sh)
 
 ### Laboratorium 6 ###
-[a link](cpu_module.c)
-[a link](Makefile)
+[cpu_module.c](cpu_module.c)
+[Makefile](Makefile)
 
 ### Laboratorium 9 ###
-[a link](keylogger.c)
+[keylogger.c](keylogger.c)
 
 ### Laboratorium 10 ###
-[a link](excel_script.ps1)
+[excel_script.ps1](excel_script.ps1)
